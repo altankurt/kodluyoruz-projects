@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+.info {
+    display: inline;
+    padding: 5px;
+  }
+  .info > span {
+    color:darkred;
+    font-weight: bold;
+  }
+h3{
+    text-align: center;
+}
+h3 span{
+    background-color:bisque;
+    color:darkred;
+}
+
+ul{
+    display: flex;
+    justify-content: center; 
+}
+ol{
+    display: flex;
+    justify-content: center;
+}
+#title{
+    margin: auto;
+    width: 30%;
+    padding: 30px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
