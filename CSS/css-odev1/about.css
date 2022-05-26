@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    padding: 1em;
+    color: #205375;
+}
+
+li{
+    display: inline
+}
+
+#a1,#a2,#a3{
+    padding: 1em;
+    text-decoration:none;
+    font-weight: bold;
+    color: #F66B0E;
+}
+
+.subtitle{
+    padding: 1em;
+    color: #205375;
+}
+h3{
+    padding: 1em;
+    text-align: left;
+    color:#205375;
+}
+
+#ap1, #ap2{
+    text-align: left;
+}
