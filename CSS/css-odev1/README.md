@@ -1,6 +1,6 @@
 #Kodluyoruz CSS Project
 
-The first CSS project I did during the Kodluyoruz training.
+The first CSS project I did during the Kodluyoruz education.
 
 ![](https://github.com/altankurt/kodluyoruz-projects/blob/main/CSS/css-odev1/video/project.gif)
 
